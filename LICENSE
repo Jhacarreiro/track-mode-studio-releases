@@ -1,0 +1,13 @@
+Track Mode Studio
+Copyright (c) 2026 João Carreiro. All rights reserved.
+
+Track Mode Studio is proprietary software. It is not open source.
+
+The installers published here are distributed for use under a license purchased
+from João Carreiro. No right to copy, modify, redistribute, sublicense, reverse
+engineer or decompile the software is granted, except where applicable law
+expressly allows it regardless of this notice.
+
+Track Mode Studio includes third-party components (such as FFmpeg, Kotlin,
+Compose Multiplatform and Skia) under their own licenses, listed in the app.
+Those licenses apply to those components only.
